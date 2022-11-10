@@ -1,0 +1,12 @@
+pycaret[full]
+openpyxl
+dvc
+jupyter
+actionrules-lukassykora
+sweetviz
+geopy
+shapely
+pyproj
+deepchecks
+featuretools
+sympy
